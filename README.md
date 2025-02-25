@@ -10,4 +10,6 @@ Hi, I am a Full Stack Developer. I own a strong hold on different skills such as
 <img height="150px" />
 <br/>  
 
+![Profile Views](https://komarev.com/ghpvc/?username=pavlo-corder&color=blue)
+
 
