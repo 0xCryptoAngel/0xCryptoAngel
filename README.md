@@ -1,5 +1,5 @@
 
-### Web & Mobile Engineer | React | Next | Vue | Angular | React-Native | Node | TypeScript | Python | RoR
+### Web & Mobile $ Blockchain Engineer | React | Next | Vue | Angular | React-Native | Node | TypeScript | Python
 
 Hi, I am a Full Stack Developer. I own a strong hold on different skills such as HTML, CSS, JavaScript, TypeScript, Python, Java, C#, Vue, Nuxt, Qusasar, React JS, React-Native, Next,  Ruby on Rails, Node, Django, Flask, ASP.NET, Java Spring Boot, PostgreSQL, MongoDB and AWS, Docker, Kubernetes. I've started my freelancing career in 2016 and succeeding it until now. I've done multiple projects on website and web app development. I'm also engaged with different freelancing platforms, from where I've created a trusted bond with my clients by offering them tremendous services.   
 
