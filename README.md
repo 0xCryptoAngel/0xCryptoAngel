@@ -7,10 +7,4 @@ Hi, I am a Full Stack Developer. I own a strong hold on different skills such as
 
 ![Profile Views](https://komarev.com/ghpvc/?username=0xCryptoAngel&color=blue)
 
-<h1 align="center"></h1>
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=0xCryptoAngel&show_icons=true&count_private=true&theme=algolia"/>
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xCryptoAngel&layout=compact&theme=algolia&count_private=true" /> 
-<img height="150px" />
-<br/>  
-
 
